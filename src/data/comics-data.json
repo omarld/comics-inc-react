@@ -1,0 +1,2868 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2017 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+    "etag": "eba1ab50f0dabc037c1c4187996c1ec2db04c95b",
+    "data": {
+        "offset": 0,
+        "limit": 20,
+        "total": 49,
+        "count": 20,
+        "results": [
+            {
+                "id": 51846,
+                "digitalId": 0,
+                "title": "Gamora (2016) #4",
+                "issueNumber": 4,
+                "variantDescription": "",
+                "description": "SUNRISE ON DOOMSDAY! As planet Ubliex approaches the black hole’s event horizon, GAMORA is on the cusp of getting the revenge she so desperately seeks…in exchange for making deals with gangsters of questionable intent, who claim they hold the key to escape. Yet as earthquakes, fire tornadoes and anti-gravity bubbles begin to tear Ubliex to pieces, Gamora may find herself forced to choose between her vengeance quest and her own survival.",
+                "modified": "2017-03-16T09:17:14-0400",
+                "isbn": "",
+                "upc": "759606082521000411",
+                "diamondCode": "JAN171055",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "SUNRISE ON DOOMSDAY! As planet Ubliex approaches the black hole’s event horizon, GAMORA is on the cusp of getting the revenge she so desperately seeks…in exchange for making deals with gangsters of questionable intent, who claim they hold the key to escape. Yet as earthquakes, fire tornadoes and anti-gravity bubbles begin to tear Ubliex to pieces, Gamora may find herself forced to choose between her vengeance quest and her own survival."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/51846",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/51846/gamora_2016_4?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Gamora-4/digital-comic/44284?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/19427",
+                    "name": "Gamora (2016 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/58cac3ad39d25",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/58cac3ad39d25",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51846/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+                            "name": "Marco Checchetto",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12764",
+                            "name": "Christina Harrington",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12456",
+                            "name": "Katie Kubert",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12947",
+                            "name": "Nicole Perlman",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+                            "name": "Esad Ribic",
+                            "role": "penciler (cover)"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51846/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010763",
+                            "name": "Gamora"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51846/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115269",
+                            "name": "cover from Gamora (2016) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115270",
+                            "name": "story from Gamora (2016) #4",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51846/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 63035,
+                "digitalId": 0,
+                "title": "Doctor Strange/Punisher: Magic Bullets (2016) #4",
+                "issueNumber": 4,
+                "variantDescription": "",
+                "description": "Using dark magic, a mobster family has transformed into monstrous beings of unbelievable power! With Doctor Strange working on being more grounded and the Punisher trying to adjust to magic, this mismatched pair has their work cut out for them!",
+                "modified": "2017-03-17T16:12:11-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Using dark magic, a mobster family has transformed into monstrous beings of unbelievable power! With Doctor Strange working on being more grounded and the Punisher trying to adjust to magic, this mismatched pair has their work cut out for them!"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/63035",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/63035/doctor_strangepunisher_magic_bullets_2016_4?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/21424",
+                    "name": "Doctor Strange/Punisher: Magic Bullets (2016 - 2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-03-08T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/58cc42db69a21",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/58cc42db69a21",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/63035/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7639",
+                            "name": "John Barber",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12815",
+                            "name": "Andrea Broccardo",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12943",
+                            "name": "Jason Muhr",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12393",
+                            "name": "Michael Walsh",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/63035/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+                            "name": "Doctor Strange"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+                            "name": "Punisher"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/63035/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/136967",
+                            "name": "cover to Doctor Strange/Punisher: Magic Bullets (2016) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/136968",
+                            "name": "interior to Doctor Strange/Punisher: Magic Bullets (2016) #4",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/63035/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 60372,
+                "digitalId": 0,
+                "title": "The Unbeatable Squirrel Girl Vol. 5: Like I'm The Only Squirrel in The World (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "Squirrel Girl takes Nancy to visit her mom in Canada! What could possibly go wrong, right? How about the return of a super villain not seen for more than a decade? One that will prompt the inter-species team-up you've been waiting for: squirrels and ants! And also Squirrel Girl and Ant-Man. It'll be huge! Or tiny. Then, when Taskmaster strikes, with his uncanny ability to duplicate any super-type's sweet moves, who will stand between him and total domination? You probably guessed Doreen Green, but you're wrong! It's actually Nancy's cat, Mew! It's a story of one feline, and all the feels. Plus: To celebrate the 25th anniversary of our unbeatable hero, her co-creator Will Murray returns to write only his second-ever Squirrel Girl tale — and he's bringing the Hulk! Collects The Unbeatable Squirrel Girl (2015B) #12-16.",
+                "modified": "2017-03-17T15:00:05-0400",
+                "isbn": "978-1-302-90328-2",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9781302 903282 51599",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 112,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Squirrel Girl takes Nancy to visit her mom in Canada! What could possibly go wrong, right? How about the return of a super villain not seen for more than a decade? One that will prompt the inter-species team-up you've been waiting for: squirrels and ants! And also Squirrel Girl and Ant-Man. It'll be huge! Or tiny. Then, when Taskmaster strikes, with his uncanny ability to duplicate any super-type's sweet moves, who will stand between him and total domination? You probably guessed Doreen Green, but you're wrong! It's actually Nancy's cat, Mew! It's a story of one feline, and all the feels. Plus: To celebrate the 25th anniversary of our unbeatable hero, her co-creator Will Murray returns to write only his second-ever Squirrel Girl tale — and he's bringing the Hulk! Collects The Unbeatable Squirrel Girl (2015B) #12-16."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/60372",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/60372/the_unbeatable_squirrel_girl_vol_5_like_im_the_only_squirrel_in_the_world_trade_paperback?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22291",
+                    "name": "The Unbeatable Squirrel Girl Vol. 5: Like I'm The Only Squirrel in The World (2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-21T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 15.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/58cc3ac1899d3",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/58cc3ac1899d3",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60372/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12464",
+                            "name": "Erica Henderson",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4886",
+                            "name": "Will Murray",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12465",
+                            "name": "Ryan North",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60372/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010801",
+                            "name": "Ant-Man (Scott Lang)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010860",
+                            "name": "Squirrel Girl"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009648",
+                            "name": "Taskmaster"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60372/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131217",
+                            "name": "cover from The Unbeatable Squirrel Girl (2017)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131218",
+                            "name": "story from The Unbeatable Squirrel Girl (2017)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60372/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 61110,
+                "digitalId": 0,
+                "title": "Uncanny Inhumans (2015) #20",
+                "issueNumber": 20,
+                "variantDescription": "",
+                "description": "INHUMANS VS. X-MEN TIE-IN! Maximus the Mad has recreated the recipe for Terrigen Crystals, and can end the mutant-Inhuman war with a single stroke. He can finally be a hero! Or maybe he won’t do anything like that at all. Everything changes for the Inhumans as Charles Soule brings his landmark three-year run on Inhumans titles to an end with this extra-sized story.",
+                "modified": "2017-03-17T17:48:41-0400",
+                "isbn": "",
+                "upc": "75960608181302011",
+                "diamondCode": "JAN170925",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 40,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "INHUMANS VS. X-MEN TIE-IN! Maximus the Mad has recreated the recipe for Terrigen Crystals, and can end the mutant-Inhuman war with a single stroke. He can finally be a hero! Or maybe he won’t do anything like that at all. Everything changes for the Inhumans as Charles Soule brings his landmark three-year run on Inhumans titles to an end with this extra-sized story."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/61110",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/61110/uncanny_inhumans_2015_20?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Uncanny-Inhumans-20/digital-comic/44330?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/19780",
+                    "name": "Uncanny Inhumans (2015 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 4.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/58cc008a8a12d",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/58cc008a8a12d",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61110/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12492",
+                            "name": "Ario Anindito",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12319",
+                            "name": "Aaron Kim Jacinto",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1063",
+                            "name": "Frazer Irving",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+                            "name": "Wilson Moss",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+                            "name": "Charles Soule",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8704",
+                            "name": "Javier Tartaglia",
+                            "role": "colorist"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61110/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009184",
+                            "name": "Black Bolt"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+                            "name": "Inhumans"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011305",
+                            "name": "Maximus"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+                            "name": "Medusa"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61110/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/132673",
+                            "name": "cover from Uncanny Inhumans (2015) #20",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/132674",
+                            "name": "story from Uncanny Inhumans (2015) #20",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61110/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 60951,
+                "digitalId": 0,
+                "title": "Captain America: Steve Rogers (2016) #14",
+                "issueNumber": 14,
+                "variantDescription": "",
+                "description": "Madame Hydra! She’s been pulling the strings on Captain America’s life since before he even existed!",
+                "modified": "2017-03-17T15:54:15-0400",
+                "isbn": "",
+                "upc": "75960608457901411",
+                "diamondCode": "JAN170969",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Madame Hydra! She’s been pulling the strings on Captain America’s life since before he even existed!"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/60951",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/60951/captain_america_steve_rogers_2016_14?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-14/digital-comic/44274?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+                    "name": "Captain America: Steve Rogers (2016 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/58c9acd451222",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/58c9acd451222",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60951/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                            "name": "Tom Brevoort",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12551",
+                            "name": "Jesus Saiz",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+                            "name": "Nick Spencer",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12832",
+                            "name": "Elizabeth Torque",
+                            "role": "penciler (cover)"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60951/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009412",
+                            "name": "Madame Hydra"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60951/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/132355",
+                            "name": "cover from Captain America: Steve Rogers (2016) #14",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/132356",
+                            "name": "story from Captain America: Steve Rogers (2016) #14",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60951/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 62650,
+                "digitalId": 0,
+                "title": "Iron Fist (2017) #1",
+                "issueNumber": 1,
+                "variantDescription": "",
+                "description": "THE GAUNTLET STARTS HERE! K’un Lun is in ruins. The chi fueling Danny’s fists is wavering. Is there a future for the Iron Fist? Danny Rand pushes himself to the breaking point, finding fights to prove his worth. But a bigger fight than he can handle may have found him…",
+                "modified": "2017-03-17T17:26:33-0400",
+                "isbn": "",
+                "upc": "759606086901000111",
+                "diamondCode": "JAN170951",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "THE GAUNTLET STARTS HERE! K’un Lun is in ruins. The chi fueling Danny’s fists is wavering. Is there a future for the Iron Fist? Danny Rand pushes himself to the breaking point, finding fights to prove his worth. But a bigger fight than he can handle may have found him…"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/62650",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/62650/iron_fist_2017_1?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Iron-Fist-1/digital-comic/44378?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22993",
+                    "name": "Iron Fist (2017 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/58cb03bf6deda",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/58cb03bf6deda",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/62650/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12484",
+                            "name": "Jeff Dekal",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+                            "name": "Jacob Thomas",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/62650/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+                            "name": "Iron Fist (Danny Rand)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/62650/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/136606",
+                            "name": "cover to Iron Fist (2017) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/136607",
+                            "name": "interior to Iron Fist (2017) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/62650/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 60489,
+                "digitalId": 0,
+                "title": "Wolverine Vs. The Punisher (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "Which are better, claws or guns? Find out in this brutal collection of Wolverine/Punisher fights - and grudging team-ups! From their first throwdown in the heart of Africa, there's no love lost between two stone cold killers whose combined body count is off the charts! They'll take on the Punisher's cyborg doppelganger Damage, go to war with the Architect, and head underground for a revelatory mission! They'll rumble in the jungle, melee in Madripoor, and battle a literally small army! But nothing can top the sublime violence Garth Ennis' Punisher visits on his sparring partner -except maybe Logan's swift revenge! Snikt! Snikt! Bang! Bang! 3, PUNISHER WAR ZONE 19, WOLVERINE/PUNISHER: REVELATION #1-4, PUNISHER #16-17, WOLVERINE #186, WOLVERINE/PUNISHER #1-5, ASTONISHING TALES: WOLVERINE/PUNISHER #1-6.",
+                "modified": "2017-03-17T15:18:20-0400",
+                "isbn": "978-1-302-90387-9",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9781302 903879 53999",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 480,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Which are better, claws or guns? Find out in this brutal collection of Wolverine/Punisher fights - and grudging team-ups! From their first throwdown in the heart of Africa, there's no love lost between two stone cold killers whose combined body count is off the charts! They'll take on the Punisher's cyborg doppelganger Damage, go to war with the Architect, and head underground for a revelatory mission! They'll rumble in the jungle, melee in Madripoor, and battle a literally small army! But nothing can top the sublime violence Garth Ennis' Punisher visits on his sparring partner -except maybe Logan's swift revenge! Snikt! Snikt! Bang! Bang! 3, PUNISHER WAR ZONE 19, WOLVERINE/PUNISHER: REVELATION #1-4, PUNISHER #16-17, WOLVERINE #186, WOLVERINE/PUNISHER #1-5, ASTONISHING TALES: WOLVERINE/PUNISHER #1-6."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/60489",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/60489/wolverine_vs_the_punisher_trade_paperback?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22364",
+                    "name": "Wolverine Vs. The Punisher (2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-14T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 39.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/58cc3a7ad940d",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/58cc3a7ad940d",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60489/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+                            "name": "Dan Abnett",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8217",
+                            "name": "Chris Golden",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+                            "name": "Andy Lanning",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1863",
+                            "name": "Carl Potts",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/762",
+                            "name": "Gary Erskine",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3411",
+                            "name": "Hugh Haynes",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/96",
+                            "name": "Jim Lee",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+                            "name": "Pat Lee",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60489/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+                            "name": "Punisher"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                            "name": "Wolverine"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60489/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131447",
+                            "name": "cover from Wolverine Vs. the Punisher (2017)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131448",
+                            "name": "story from Wolverine Vs. the Punisher (2017)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60489/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 60715,
+                "digitalId": 0,
+                "title": "Moon Girl and Devil Dinosaur (2015) #17",
+                "issueNumber": 17,
+                "variantDescription": "",
+                "description": "WELCOME TO THE X-MEN, LUNELLA LAFAYETTE! Storm and her extraordinary X-Men come to Yancy Street — hope they survive the experience! Lunella Lafayette, a.k.a. Moon Girl, is finally getting the attention she deserves as the smartest in the world…but not all of it’s good, especially when it comes from Victor Von Doom!",
+                "modified": "2017-03-17T17:27:37-0400",
+                "isbn": "",
+                "upc": "759606084051001711",
+                "diamondCode": "JAN171006",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "WELCOME TO THE X-MEN, LUNELLA LAFAYETTE! Storm and her extraordinary X-Men come to Yancy Street — hope they survive the experience! Lunella Lafayette, a.k.a. Moon Girl, is finally getting the attention she deserves as the smartest in the world…but not all of it’s good, especially when it comes from Victor Von Doom!"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/60715",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/60715/moon_girl_and_devil_dinosaur_2015_17?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Moon-Girl-and-Devil-Dinosaur-17/digital-comic/44298?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20839",
+                    "name": "Moon Girl and Devil Dinosaur (2015 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/58cb052d73413",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/58cb052d73413",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60715/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12744",
+                            "name": "Tamra Bonvillain",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12765",
+                            "name": "Natacha Bustos",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11347",
+                            "name": "Brandon Montclare",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                            "name": "Mark Paniccia",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60715/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+                            "name": "Colossus"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017583",
+                            "name": "Devil Dinosaur (Devil Dinosaur)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009309",
+                            "name": "Forge"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+                            "name": "Nightcrawler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+                            "name": "Storm"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60715/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131899",
+                            "name": "cover from Moon Girl and Devil Dinosaur (2015) #17",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131900",
+                            "name": "story from Moon Girl and Devil Dinosaur (2015) #17",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60715/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 57393,
+                "digitalId": 0,
+                "title": "Black Panther (2016) #12",
+                "issueNumber": 12,
+                "variantDescription": "",
+                "description": "A NATION UNDER OUR FEET: EPILOGUE The dust settles, and peace comes to Wakanda once again. That is, if her political leaders can come to terms...T'Challa finds himself in the last place he ever expected: A republic.",
+                "modified": "2017-03-16T09:16:40-0400",
+                "isbn": "",
+                "upc": "759606084211001211",
+                "diamondCode": "JAN171026",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "A NATION UNDER OUR FEET: EPILOGUE The dust settles, and peace comes to Wakanda once again. That is, if her political leaders can come to terms...T'Challa finds himself in the last place he ever expected: A republic."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/57393",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/57393/black_panther_2016_12?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Black-Panther-12/digital-comic/44269?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20912",
+                    "name": "Black Panther (2016 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/58c9ab3ee36c2",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/58c9ab3ee36c2",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57393/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12803",
+                            "name": "Ta-Nehisi Coates",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+                            "name": "Wilson Moss",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                            "name": "Vc Joe Sabino",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/575",
+                            "name": "Brian Stelfreeze",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57393/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57393/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/125604",
+                            "name": "cover from Black Panther (2015) #12",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/125605",
+                            "name": "story from Black Panther (2015) #12",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57393/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 59508,
+                "digitalId": 0,
+                "title": "Civil War II Fallout (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "CIVIL WAR II's main player takes center stage, and its seismic effects are felt across the Marvel Universe! First, in a sensational prequel to the main event, experience the odyssey of Ulysses! What incredible journey leads him to join the Inhumans? And in the wake of a truly terrifying vision, why won't Karnak help him prevent disaster? Then, feel the full implications of the hostilities in a trio of tales. When a heroic icon is slain, those who knew him best remember the fallen legend — and the Avenger who killed him stands accused of his murder! But when the war is over, rivals Tony Stark and Carol Danvers turn to the one man they know they can trust — Steve Rogers, Captain America! Uh-oh…Collects Civil War II: Ulysses Infinite Comic #1-6, The Fallen #1, The Accused #1, The Oath #1.",
+                "modified": "2017-03-18T01:13:08-0400",
+                "isbn": "978-1-302-90239-1",
+                "upc": "",
+                "diamondCode": "NOV160961",
+                "ean": "9781302 902391 52499",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 192,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "CIVIL WAR II's main player takes center stage, and its seismic effects are felt across the Marvel Universe! First, in a sensational prequel to the main event, experience the odyssey of Ulysses! What incredible journey leads him to join the Inhumans? And in the wake of a truly terrifying vision, why won't Karnak help him prevent disaster? Then, feel the full implications of the hostilities in a trio of tales. When a heroic icon is slain, those who knew him best remember the fallen legend — and the Avenger who killed him stands accused of his murder! But when the war is over, rivals Tony Stark and Carol Danvers turn to the one man they know they can trust — Steve Rogers, Captain America! Uh-oh…Collects Civil War II: Ulysses Infinite Comic #1-6, The Fallen #1, The Accused #1, The Oath #1."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/59508",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/59508/civil_war_ii_fallout_trade_paperback?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/21674",
+                    "name": "Civil War II Fallout (2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-01-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 24.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/58cc3b49a3099",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/58cc3b49a3099",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59508/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+                            "name": "Ramon Bachs",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                            "name": "Mark Bagley",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12422",
+                            "name": "Garry Brown",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8728",
+                            "name": "Jefte Palo",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9364",
+                            "name": "Rod Reis",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+                            "name": "Mike Del Mundo",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+                            "name": "Marc Guggenheim",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+                            "name": "Greg Pak",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+                            "name": "Nick Spencer",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "characters": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59508/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+                            "name": "Captain Marvel (Carol Danvers)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                            "name": "Hulk"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+                            "name": "Inhumans"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009385",
+                            "name": "Karnak"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59508/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/129517",
+                            "name": "cover from Civil War: TBD (2017)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/129518",
+                            "name": "story from Civil War: TBD (2017)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59508/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 61482,
+                "digitalId": 0,
+                "title": "Elektra (2017) #2",
+                "issueNumber": 2,
+                "variantDescription": "",
+                "description": "ELEKTRA COMES OUT TO PLAY! ELEKTRA has tried to lie low, but she finds herself in the crosshairs of a dangerous force in Sin City. A string of clues including high tech weaponry, kidnappings and assassins lead her to a game of chance more deadly than she ever expected. Can she outsmart this mastermind…or is she playing right into his hand?",
+                "modified": "2017-03-16T09:17:09-0400",
+                "isbn": "",
+                "upc": "75960608609200211",
+                "diamondCode": "JAN171013",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "ELEKTRA COMES OUT TO PLAY! ELEKTRA has tried to lie low, but she finds herself in the crosshairs of a dangerous force in Sin City. A string of clues including high tech weaponry, kidnappings and assassins lead her to a game of chance more deadly than she ever expected. Can she outsmart this mastermind…or is she playing right into his hand?"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/61482",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/61482/elektra_2017_2?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Elektra-2/digital-comic/44348?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22561",
+                    "name": "Elektra (2017 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/58c9b11a48c30",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/58c9b11a48c30",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61482/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12977",
+                            "name": "Juan Cabal",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12456",
+                            "name": "Katie Kubert",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                            "name": "Mark Paniccia",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12963",
+                            "name": "Matt Owens",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12832",
+                            "name": "Elizabeth Torque",
+                            "role": "inker (cover)"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61482/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009288",
+                            "name": "Elektra"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61482/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/133393",
+                            "name": "cover from Elektra (2017) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/133394",
+                            "name": "story from Elektra (2016) #2",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61482/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 62064,
+                "digitalId": 0,
+                "title": "Rocket Raccoon (2016) #4",
+                "issueNumber": 4,
+                "variantDescription": "",
+                "description": "Rocket is under arrest! After a disastrous fight with Kraven the Hunter, Rocket finds himself in a S.H.I.E.L.D. prison. But when has that ever stopped Rocket from wreaking havoc?",
+                "modified": "2017-03-17T17:31:08-0400",
+                "isbn": "",
+                "upc": "75960608628300411",
+                "diamondCode": "JAN171052",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Rocket is under arrest! After a disastrous fight with Kraven the Hunter, Rocket finds himself in a S.H.I.E.L.D. prison. But when has that ever stopped Rocket from wreaking havoc?"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/62064",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/62064/rocket_raccoon_2016_4?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Rocket-Raccoon-4/digital-comic/44312?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22718",
+                    "name": "Rocket Raccoon (2016 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/58cbed93493ed",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/58cbed93493ed",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/62064/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12823",
+                            "name": "Jorge Coelho",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/974",
+                            "name": "Jeff Eckleberry",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/428",
+                            "name": "Antonio Fabela",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+                            "name": "David Nakayama",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12771",
+                            "name": "Matthew Rosenberg",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/62064/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009391",
+                            "name": "Kraven the Hunter"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010744",
+                            "name": "Rocket Raccoon"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/62064/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/134517",
+                            "name": "cover from Rocket Raccoon (2016) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/134518",
+                            "name": "story from Rocket Raccoon (2016) #4",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/62064/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 60657,
+                "digitalId": 0,
+                "title": "Foolkiller (2016) #5",
+                "issueNumber": 5,
+                "variantDescription": "",
+                "description": "Foolkiller vs Foolkiller! What will Greg Salinger’s final fate be?",
+                "modified": "2017-03-16T09:17:13-0400",
+                "isbn": "",
+                "upc": "75960608576700511",
+                "diamondCode": "JAN171045",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Foolkiller vs Foolkiller! What will Greg Salinger’s final fate be?"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/60657",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/60657/foolkiller_2016_5?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Foolkiller-5/digital-comic/44283?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22413",
+                    "name": "Foolkiller (2016 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/58cac32f37e51",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/58cac32f37e51",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60657/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12794",
+                            "name": "Max Bemis",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+                            "name": "Dave Johnson",
+                            "role": "painter (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11560",
+                            "name": "Dalibor Talajic",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                            "name": "Jordan White",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60657/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60657/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131783",
+                            "name": "cover from Foolkiller (2016) #5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131784",
+                            "name": "story from Foolkiller (2016) #5",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60657/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 60889,
+                "digitalId": 0,
+                "title": "X-Force Epic Collection: Under The Gun (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "The New Mutants graduate into X-Force! Cable turns his young charges into a mutant militia that means business! Cannonball, Boom Boom, Warpath, Domino, Shatterstar and Feral go in guns blazing and swords swinging — not to mention all the claws, knives and explosions! They're on the hunt for the mysterious Stryfe and his Mutant Liberation Front, but what is the villain's uncanny connection to Cable? X-Force will take on all comers, from Deadpool and the Morlocks to the new Brotherhood of Evil Mutants! The unstoppable Juggernaut will knock X-Force and Spider-Man sideways, while Shatterstar faces off with Wolverine! Siryn and Rictor join the squad, and Sunspot makes his return! Meanwhile, Cable's past with the Wild Pack returns to haunt him! They're a Force to be reckoned with. Collects X-Force (1991) #1-15, Annual #1 Spider-Man (1990) #16 Wolverine (1988) #54.",
+                "modified": "2017-03-17T15:26:12-0400",
+                "isbn": "978-1-302-90457-9",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9781302 904579 53499",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 496,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "The New Mutants graduate into X-Force! Cable turns his young charges into a mutant militia that means business! Cannonball, Boom Boom, Warpath, Domino, Shatterstar and Feral go in guns blazing and swords swinging — not to mention all the claws, knives and explosions! They're on the hunt for the mysterious Stryfe and his Mutant Liberation Front, but what is the villain's uncanny connection to Cable? X-Force will take on all comers, from Deadpool and the Morlocks to the new Brotherhood of Evil Mutants! The unstoppable Juggernaut will knock X-Force and Spider-Man sideways, while Shatterstar faces off with Wolverine! Siryn and Rictor join the squad, and Sunspot makes his return! Meanwhile, Cable's past with the Wild Pack returns to haunt him! They're a Force to be reckoned with. Collects X-Force (1991) #1-15, Annual #1 Spider-Man (1990) #16 Wolverine (1988) #54."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/60889",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/60889/x-force_epic_collection_under_the_gun_trade_paperback?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22464",
+                    "name": "X-Force Epic Collection: Under The Gun (2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-03-07T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 34.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/58cc3aa072f00",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/58cc3aa072f00",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60889/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+                            "name": "various",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/75",
+                            "name": "Todd McFarlane",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+                            "name": "Fabian Nicieza",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/379",
+                            "name": "Greg Capullo",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1926",
+                            "name": "Mike Mignola",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2387",
+                            "name": "Mark Pacella",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/49",
+                            "name": "Darick Robertson",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1300",
+                            "name": "Terry Shoemaker",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/571",
+                            "name": "Rob Liefeld",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "characters": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60889/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+                            "name": "Domino"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011213",
+                            "name": "Feral"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+                            "name": "Juggernaut"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009542",
+                            "name": "Rictor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009580",
+                            "name": "Shatterstar"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009632",
+                            "name": "Stryfe"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009705",
+                            "name": "Warpath"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+                            "name": "X-Force"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60889/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/132247",
+                            "name": "cover from X-Force Epic Collection: Under the Gun (2017)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/132248",
+                            "name": "story from X-Force Epic Collection: Under the Gun (2017)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60889/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 60694,
+                "digitalId": 0,
+                "title": "Iron Fist: The Book of Changes (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "Iron Fist is back — and he's on a collision course with Spider-Man! But what goings-on at Danny Rand's company could lead him to trade punches with the wall-crawler and the armored Platoon? Danny will fall prey to the mystical cult leader known as the Mad Abbot — unless his will is also like unto a thing of iron! Plus: Fist joins Ghost Rider in pursuit of the violent vigilantes calling themselves the Legion of Vengeance, faces a demonic evil, crosses paths with the Highwayman, rumbles with Rave, and discovers the depths of despair in a fearsome reunion with old nemesis Sabretooth! But will the Book of Changes make Iron Fist a better man? Collects Spider-Man (1990) #41-43 and material from from Marvel Comics Presents (1988) #111, 113-118, 125-137, 140-141 & Namor Annual #3.",
+                "modified": "2017-03-17T14:52:51-0400",
+                "isbn": "978-1-302-90450-0",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9781302 904500 53499",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 272,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Iron Fist is back — and he's on a collision course with Spider-Man! But what goings-on at Danny Rand's company could lead him to trade punches with the wall-crawler and the armored Platoon? Danny will fall prey to the mystical cult leader known as the Mad Abbot — unless his will is also like unto a thing of iron! Plus: Fist joins Ghost Rider in pursuit of the violent vigilantes calling themselves the Legion of Vengeance, faces a demonic evil, crosses paths with the Highwayman, rumbles with Rave, and discovers the depths of despair in a fearsome reunion with old nemesis Sabretooth! But will the Book of Changes make Iron Fist a better man? Collects Spider-Man (1990) #41-43 and material from from Marvel Comics Presents (1988) #111, 113-118, 125-137, 140-141 & Namor Annual #3."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/60694",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/60694/iron_fist_the_book_of_changes_trade_paperback?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22426",
+                    "name": "Iron Fist: The Book of Changes (2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-03-07T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 34.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/58cc3b1bbc501",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/58cc3b1bbc501",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 13,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60694/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+                            "name": "various",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3058",
+                            "name": "Fred Haynes",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2822",
+                            "name": "Dave Hoover",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+                            "name": "Jae Lee",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2124",
+                            "name": "Shawn McManus",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/928",
+                            "name": "Andy Smith",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2089",
+                            "name": "Joey Cavalieri",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3727",
+                            "name": "John Figueroa",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1162",
+                            "name": "Terry Kavanagh",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2673",
+                            "name": "Ron Marz",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3897",
+                            "name": "Antonio Matias",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/343",
+                            "name": "Sam Kieth",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 13
+                },
+                "characters": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60694/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010925",
+                            "name": "Ghost Rider (Daniel Ketch)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+                            "name": "Iron Fist (Danny Rand)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60694/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131857",
+                            "name": "cover from Iron Fist: The Book of Changes (2017)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/131858",
+                            "name": "story from Iron Fist: The Book of Changes (2017)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60694/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 61722,
+                "digitalId": 0,
+                "title": "The Unworthy Thor (2016) #5",
+                "issueNumber": 5,
+                "variantDescription": "",
+                "description": "The hammer of the Ultimate Thor is finally within reach of Asgard’s fallen son. Is redemption finally at hand? No matter what happens next, life will never be the same for the Odinson.",
+                "modified": "2017-03-17T17:46:34-0400",
+                "isbn": "",
+                "upc": "75960608624500511",
+                "diamondCode": "JAN170975",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "The hammer of the Ultimate Thor is finally within reach of Asgard’s fallen son. Is redemption finally at hand? No matter what happens next, life will never be the same for the Odinson."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/61722",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/61722/the_unworthy_thor_2016_5?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/The-Unworthy-Thor-5/digital-comic/44326?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22655",
+                    "name": "The Unworthy Thor (2016 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/58cbfd08511c7",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/58cbfd08511c7",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61722/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                            "name": "Jason Aaron",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1123",
+                            "name": "Pascal Alixe",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12319",
+                            "name": "Aaron Kim Jacinto",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+                            "name": "Olivier Coipel",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+                            "name": "Wilson Moss",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8706",
+                            "name": "Jay David Ramos",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                            "name": "Vc Joe Sabino",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+                            "name": "Matthew Wilson",
+                            "role": "colorist (cover)"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61722/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                            "name": "Thor"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61722/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/133860",
+                            "name": "cover from Thor: Odinson (2016) #5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/133861",
+                            "name": "story from Thor: Odinson (2016) #5",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61722/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 61534,
+                "digitalId": 0,
+                "title": "Hulk (2016) #4",
+                "issueNumber": 4,
+                "variantDescription": "",
+                "description": "HAUNTED BY SPECTERS OF THE PAST! Trying to rebuild her own life and law career, JENNIFER WALTERS is determined to help her newest client, MAISE BREWN, a woman on the verge of eviction and a massive nervous meltdown. Once an outgoing yoga instructor, a brutal attack changed Maise’s life forever. Now a reclusive shut-in, Maise wants Jen’s help...More than that, she wants a promise, that Jen will help her keep her home. And if Jen can’t, Maise has another plan, a menacing force of her own. What happens when a fear is so strong, it becomes a destructive force in its own right? Jen is about to find out.",
+                "modified": "2017-03-20T16:04:57-0400",
+                "isbn": "",
+                "upc": "75960608612200411",
+                "diamondCode": "JAN170972",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "HAUNTED BY SPECTERS OF THE PAST! Trying to rebuild her own life and law career, JENNIFER WALTERS is determined to help her newest client, MAISE BREWN, a woman on the verge of eviction and a massive nervous meltdown. Once an outgoing yoga instructor, a brutal attack changed Maise’s life forever. Now a reclusive shut-in, Maise wants Jen’s help...More than that, she wants a promise, that Jen will help her keep her home. And if Jen can’t, Maise has another plan, a menacing force of her own. What happens when a fear is so strong, it becomes a destructive force in its own right? Jen is about to find out."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/61534",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/61534/hulk_2016_4?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Hulk-4/digital-comic/44289?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22580",
+                    "name": "Hulk (2016 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/58cafa30a9cea",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/58cafa30a9cea",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61534/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12484",
+                            "name": "Jeff Dekal",
+                            "role": "painter (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+                            "name": "Matt Milla",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                            "name": "Mark Paniccia",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12945",
+                            "name": "Mariko Tamaki",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61534/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+                            "name": "She-Hulk (Jennifer Walters)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61534/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/133497",
+                            "name": "cover from Hulk (2017) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/133498",
+                            "name": "story from Hulk (2017) #4",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/61534/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 59476,
+                "digitalId": 0,
+                "title": "Uncanny Avengers: Unity Vol. 3 - Civil War II (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "The Unity Squad is divided as CIVIL WAR II rages! Deadpool risks his Avengers status on a secret mission! Cable and Steve Rogers face off, with the future of their team at stake! And the squad's mutants go rogue as they search for a solution to the Terrigen Mist poisoning that's been killing their brethren! But when Captain America makes a shocking decision, things will never be the same! Then, when the Hand gets its hands on the corpse of the conflict's incredible \"Fallen\" hero, it could mean one hulking-great undead problem! But what makes this latest drama so personal for Doctor Voodoo? If any semblance of the Unity Squad remains, it won't be for long. The Red Skull has plotted, lurked and lingered, waiting for his moment to strike. And his wait is over! Collects Uncanny Avengers (2015B) #13-17.",
+                "modified": "2017-03-17T15:10:48-0400",
+                "isbn": "978-1-302-90234-6",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9781302 902346 51799",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 136,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "The Unity Squad is divided as CIVIL WAR II rages! Deadpool risks his Avengers status on a secret mission! Cable and Steve Rogers face off, with the future of their team at stake! And the squad's mutants go rogue as they search for a solution to the Terrigen Mist poisoning that's been killing their brethren! But when Captain America makes a shocking decision, things will never be the same! Then, when the Hand gets its hands on the corpse of the conflict's incredible \"Fallen\" hero, it could mean one hulking-great undead problem! But what makes this latest drama so personal for Doctor Voodoo? If any semblance of the Unity Squad remains, it won't be for long. The Red Skull has plotted, lurked and lingered, waiting for his moment to strike. And his wait is over! Collects Uncanny Avengers (2015B) #13-17."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/59476",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/59476/uncanny_avengers_unity_vol_3_-_civil_war_ii_trade_paperback?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/21660",
+                    "name": "Uncanny Avengers: Unity Vol. 3 - Civil War II (2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-21T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 17.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/58cc3a677a811",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/58cc3a677a811",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59476/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+                            "name": "Gerry Duggan",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+                            "name": "Pepe Larraz",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+                            "name": "Ryan Stegman",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59476/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+                            "name": "Deadpool"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+                            "name": "Inhumans"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+                            "name": "Rogue"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59476/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/129452",
+                            "name": "cover from Uncanny Avengers: Unity - Civil War II (2017)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/129453",
+                            "name": "story from Uncanny Avengers: Unity - Civil War II (2017)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59476/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 55452,
+                "digitalId": 0,
+                "title": "Extraordinary X-Men (2015) #20",
+                "issueNumber": 20,
+                "variantDescription": "",
+                "description": "Storm once referred to JEAN GREY as the heart of the X-Men, and she was ultimately the catalyst for bringing this team of X-Men together. But in the aftermath of their war with the Inhumans, the X-Men’s resolve is faltering…and Jean Grey is doubting her place with them. The X-MEN may have survived the war…but at what cost?",
+                "modified": "2017-03-17T16:18:12-0400",
+                "isbn": "",
+                "upc": "75960608302202011",
+                "diamondCode": "JAN171077",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Storm once referred to JEAN GREY as the heart of the X-Men, and she was ultimately the catalyst for bringing this team of X-Men together. But in the aftermath of their war with the Inhumans, the X-Men’s resolve is faltering…and Jean Grey is doubting her place with them. The X-MEN may have survived the war…but at what cost?"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55452",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/55452/extraordinary_x-men_2015_20?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Extraordinary-X-Men-20/digital-comic/44282?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20460",
+                    "name": "Extraordinary X-Men (2015 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-27T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/58cac211aa4bf",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/58cac211aa4bf",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55452/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12431",
+                            "name": "Victor Ibanez",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+                            "name": "Daniel Ketchum",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+                            "name": "Jeff Lemire",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8706",
+                            "name": "Jay David Ramos",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/789",
+                            "name": "David Yardin",
+                            "role": "penciler (cover)"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55452/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+                            "name": "Colossus"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+                            "name": "Iceman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009415",
+                            "name": "Magik (Illyana Rasputin)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+                            "name": "Nightcrawler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+                            "name": "Storm"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                            "name": "X-Men"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55452/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121947",
+                            "name": "cover from Extraordinary X-Men (2015) #20",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121948",
+                            "name": "story from Extraordinary X-Men (2015) #20",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55452/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 58969,
+                "digitalId": 0,
+                "title": "Star Wars: Darth Maul (2017) #2",
+                "issueNumber": 2,
+                "variantDescription": "",
+                "description": "A Jedi Padawan has been captured by sinister forces...and Darth Maul is determined to find her?! This early tale of the galaxy's deadliest Zabrak continues!",
+                "modified": "2017-03-17T17:35:10-0400",
+                "isbn": "",
+                "upc": "75960608372500211",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "A Jedi Padawan has been captured by sinister forces...and Darth Maul is determined to find her?! This early tale of the galaxy's deadliest Zabrak continues!"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/58969",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/58969/star_wars_darth_maul_2017_2?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Star-Wars-Darth-Maul-2/digital-comic/44894?utm_campaign=apiRef&utm_source=e5f34bf263c773cbea3293aa87dd2495"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/21484",
+                    "name": "Star Wars: Darth Maul (2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2017-03-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2020-12-17T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/58cc56d86659d",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/58cc56d86659d",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58969/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10936",
+                            "name": "Rafael Albuquerque",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+                            "name": "Cullen Bunn",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+                            "name": "Luke Ross",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                            "name": "Jordan White",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58969/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58969/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/128480",
+                            "name": "cover from Star Wars: Miniseries E (2016) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/128481",
+                            "name": "story from Star Wars: Miniseries E (2016) #2",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58969/events",
+                    "items": [],
+                    "returned": 0
+                }
+            }
+        ]
+    }
+}

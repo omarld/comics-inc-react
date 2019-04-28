@@ -1,0 +1,70 @@
+
+@import url("../../node_modules/bootstrap/dist/css/bootstrap.css");
+
+/*----------------------------------------------------------*/
+/* HEADER */
+/*----------------------------------------------------------*/
+header {
+    background-image: -webkit-linear-gradient(rgba(255, 235, 59), rgba(255, 235, 59, 0.85)), url(../assets/images/hero-wolverine-1.jpg);
+    background-image: linear-gradient(rgba(255, 235, 59, 1.0), rgba(255, 235, 59, 0.85)), url(../assets/images/hero-wolverine-1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    background-attachment: fixed;
+}
+
+/*----------------------------------------------------------*/
+/* HEADER */
+/*----------------------------------------------------------*/
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/*----------------------------------------------------------*/
+/* NEW RELEASES SECTION */
+/*----------------------------------------------------------*/
+
+.section-releases {
+    background-color: red;
+}
+
+
+.section-releases .release-list {
+    position: relative;
+    margin-left: 10%;
+}
+
+.section-releases .release-list .card {
+    position: relative;
+    display: inline-block;
+    width: 430px;
+    float: left;
+    margin: 20px;
+}
+
+.section-releases .release-list .card img {
+    position: relative;
+    width: 100%;
+}
